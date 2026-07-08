@@ -2,6 +2,25 @@
 
 KrishiX is an intelligent agricultural advisory system that provides farmers with personalized crop recommendations, weather insights, soil analysis, and pest detection using AI-powered technologies. This is a **frontend-only** version that works entirely in the browser.
 
+## 🏠 Home Page
+
+The KrishiX homepage provides a clean and user-friendly interface for farmers to access smart agricultural services. It includes:
+
+- 🌾 Smart Crops Advisory System
+- 🌦️ Personalized crop recommendations
+- 📈 Weather insights
+- 👨‍🌾 Expert farming advice
+- ▶️ Get Started button
+- ℹ️ Learn More section
+- 🌐 Language selection
+- 🔐 User Sign In / Sign Up
+
+### Screenshot
+
+![KrishiX Home Page](images/homepage.png)
+
+> *Figure: KrishiX Home Page – Smart Crops Advisory System*
+
 ## 🌱 Features
 
 ### Core Functionality
