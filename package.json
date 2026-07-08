@@ -1,0 +1,17 @@
+{
+  "name": "krishix",
+  "version": "1.0.0",
+  "description": "Smart Crops Advisory System - Frontend Only",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server public -p 3000 -o",
+    "dev": "npx http-server public -p 3000 -o --cors",
+    "build": "echo 'Frontend-only build - no build process needed'"
+  },
+  "keywords": ["agriculture", "crops", "advisory", "smart-farming", "krishix", "frontend"],
+  "author": "KrishiX Team",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
